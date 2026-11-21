@@ -1,0 +1,1 @@
+{"name":"Local: range-sum","url":"/home/whoami-sm/codeforces/range-sum.cpp","tests":[{"id":1794257109915,"input":"5 4\n2 -3 5 1 4\n1 3\n2 2\n4 5\n1 5","output":"4\n-3\n5\n9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/whoami-sm/codeforces/range-sum.cpp","group":"local","local":true}

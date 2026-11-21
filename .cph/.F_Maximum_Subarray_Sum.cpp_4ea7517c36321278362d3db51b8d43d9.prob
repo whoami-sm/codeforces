@@ -1,0 +1,1 @@
+{"name":"Local: F_Maximum_Subarray_Sum","url":"/home/whoami-sm/codeforces/F_Maximum_Subarray_Sum.cpp","tests":[{"id":1794925827159,"input":"8\n-2 3 -1 5 -6 2 4 -3\n","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/whoami-sm/codeforces/F_Maximum_Subarray_Sum.cpp","group":"local","local":true}

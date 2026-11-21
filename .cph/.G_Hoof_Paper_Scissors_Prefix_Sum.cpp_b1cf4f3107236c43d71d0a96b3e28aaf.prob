@@ -1,0 +1,1 @@
+{"name":"Local: G_Hoof_Paper_Scissors_Prefix_Sum","url":"/home/whoami-sm/codeforces/G_Hoof_Paper_Scissors_Prefix_Sum.cpp","tests":[{"id":1795246540158,"input":"5\nP\nP\nH\nP\nS\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/whoami-sm/codeforces/G_Hoof_Paper_Scissors_Prefix_Sum.cpp","group":"local","local":true}

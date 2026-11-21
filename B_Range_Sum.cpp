@@ -10,7 +10,7 @@ signed main (){
     ios::sync_with_stdio(false);
     int n, q;
     cin >> n >> q;
-    vector<int> a(n);
+    vector<int> a(n); // the original is such that the indices starts from 0 and ends at 0
     for (int i = 0; i < n; i++) cin >> a[i];
 
     vector<int> b(n + 1);
