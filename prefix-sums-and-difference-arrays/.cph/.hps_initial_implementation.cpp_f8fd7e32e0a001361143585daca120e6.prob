@@ -1,0 +1,1 @@
+{"name":"Local: hps_initial_implementation","url":"/home/whoami-sm/codeforces/hps_initial_implementation.cpp","tests":[{"id":1795303060597,"input":"5\nP\nP\nH\nP\nS\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/whoami-sm/codeforces/hps_initial_implementation.cpp","group":"local","local":true}

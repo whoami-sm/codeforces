@@ -1,0 +1,1 @@
+{"name":"Local: prefix_sum_hps_time","url":"/home/whoami-sm/codeforces/prefix_sum_hps_time.cpp","tests":[{"id":1795303489229,"input":"5\nP\nP\nH\nP\nS\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/whoami-sm/codeforces/prefix_sum_hps_time.cpp","group":"local","local":true}
